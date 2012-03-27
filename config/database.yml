@@ -49,7 +49,7 @@ test:
 production:
   adapter: postgresql
   encoding: unicode
-  database: browse-products-contents_production
+  database: product_content
   pool: 5
   username: postgres
   password: wanU2e8a
